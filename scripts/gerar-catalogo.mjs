@@ -92,6 +92,8 @@ function pontuarVideo(v) {
   else if (v.type === 'Teaser') p += 100
   else return -1
   if (v.official) p += 20
+  // Entre vídeos equivalentes, prefere os que se chamam "trailer" (e não "special look", "spot"…).
+  if (nome.includes('trailer')) p += 5
   if (en && /official trailer/.test(nome)) p += 10
   // Prefere o mais recente entre empates (trailers finais costumam ser os melhores).
   p += (Date.parse(v.published_at ?? '') || 0) / 1e13

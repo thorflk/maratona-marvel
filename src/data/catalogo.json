@@ -1,7 +1,7 @@
 {
   "versao": 1,
-  "fonte": "provisorio",
-  "geradoEm": "2026-10-01T13:19:56.005Z",
+  "fonte": "tmdb",
+  "geradoEm": "2026-10-01T13:46:13.705Z",
   "itens": [
     {
       "id": "x-men-2000",
@@ -11,11 +11,22 @@
       "tituloOriginal": "X-Men",
       "ano": 2000,
       "duracao": 104,
-      "sinopse": "Em um mundo que teme e odeia os mutantes, Wolverine e a jovem Vampira se juntam aos X-Men do Professor Xavier para impedir que Magneto ataque líderes mundiais.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Eles são filhos do átomo superior, o próximo elo na corrente da evolução. Cada um nasceu com uma mutação genética rara, que na puberdade se manifestou em poderes extraordinários. Em um mundo cheio de ódio e preconceito, eles são temidos por aqueles que não podem aceitar suas diferenças.",
+      "poster": "https://image.tmdb.org/t/p/w500/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3QUVzbcNyfGe3ocWkYAT8emK8Co.jpg",
+      "trailer": {
+        "youtubeId": "yGDjT0tqnao",
+        "nome": "X-Men: O Filme (2000) | Trailer [Legendado]",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 36657
     },
     {
@@ -26,11 +37,22 @@
       "tituloOriginal": "X2",
       "ano": 2003,
       "duracao": 134,
-      "sinopse": "Depois de um ataque à Casa Branca, o militar William Stryker lança uma ofensiva contra os mutantes, forçando os X-Men a se aliarem a Magneto.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Stryker, um ex-comandante perverso do exército, tem a chave para o passado de Wolverine e o futuro dos X-Men. Esta ameaça reacende a chamada para um ato de registro mutante. Stryker inicia um ataque à mansão e escola do Professor Xavier.",
+      "poster": "https://image.tmdb.org/t/p/w500/pwQo1ehiPBqAbiVqD6rfNM8GCFE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7TYITrR804tLITNur3b8VLCK6tw.jpg",
+      "trailer": {
+        "youtubeId": "KjzPi5hfv9c",
+        "nome": "X-Men 2 (2003) Official Trailer",
+        "idioma": "en"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 36658
     },
     {
@@ -41,11 +63,22 @@
       "tituloOriginal": "Captain America: The First Avenger",
       "ano": 2011,
       "duracao": 124,
-      "sinopse": "Durante a Segunda Guerra, o franzino Steve Rogers recebe o soro do supersoldado e se torna o Capitão América para enfrentar o Caveira Vermelha e a HIDRA.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Durante a Segunda Guerra Mundial, Steve Rogers é um homem doente, do Brooklyn, que se transforma no super soldado Capitão América para ajudar nos esforços de guerra.",
+      "poster": "https://image.tmdb.org/t/p/w500/19wxfSXHhuJBRbbfUweCsfXFhpv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+      "trailer": {
+        "youtubeId": "Xkx4CkmTzAI",
+        "nome": "Trailer Oficial Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 1771
     },
     {
@@ -56,11 +89,22 @@
       "tituloOriginal": "Iron Man",
       "ano": 2008,
       "duracao": 126,
-      "sinopse": "Sequestrado no Afeganistão, o bilionário Tony Stark constrói uma armadura para escapar e decide usar sua tecnologia para proteger o mundo.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Tony Stark é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro.",
+      "poster": "https://image.tmdb.org/t/p/w500/mqN7RxojEiPoh3FTSTwOtwg7KAu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
+      "trailer": {
+        "youtubeId": "j_Ez4QVs_1g",
+        "nome": "Homem de Ferro | Trailer Oficial Dublado (HD)",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 1726
     },
     {
@@ -71,11 +115,22 @@
       "tituloOriginal": "Iron Man 2",
       "ano": 2010,
       "duracao": 124,
-      "sinopse": "Com a identidade revelada, Tony Stark enfrenta a pressão do governo, a doença causada pelo próprio reator e o vingativo Ivan Vanko.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.",
+      "poster": "https://image.tmdb.org/t/p/w500/vzROjQbgKWMVf2EldXipCcjpuBL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+      "trailer": {
+        "youtubeId": "msxQMX9Nczk",
+        "nome": "Homem de Ferro 2 | Trailer 3 Dublado (HD)",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 10138
     },
     {
@@ -85,12 +140,23 @@
       "titulo": "O Incrível Hulk",
       "tituloOriginal": "The Incredible Hulk",
       "ano": 2008,
-      "duracao": 112,
-      "sinopse": "Foragido, Bruce Banner busca uma cura para a fúria que o transforma no Hulk enquanto o Exército e o soldado Emil Blonsky o perseguem.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "duracao": 120,
+      "sinopse": "Vivendo escondido e longe de Betty Ross, a mulher que ama, o cientista Bruce Banner busca um meio de retirar a radiação gama que está em seu sangue.",
+      "poster": "https://image.tmdb.org/t/p/w500/v1UXe9WlwkkZ5YrffUSPdYNeJz3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xfBnQ4mgf1jYZsscJGJjr6ce0Ar.jpg",
+      "trailer": {
+        "youtubeId": "e9u0nIKgdDY",
+        "nome": "O Incrível Hulk | Trailer 2 Legendado (HD)",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 3,
+          "nome": "Google Play Movies",
+          "logo": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png",
+          "modalidade": "aluguel"
+        }
+      ],
       "tmdbId": 1724
     },
     {
@@ -101,11 +167,22 @@
       "tituloOriginal": "Thor",
       "ano": 2011,
       "duracao": 115,
-      "sinopse": "Banido de Asgard por sua arrogância, Thor cai na Terra sem seus poderes e precisa provar que é digno enquanto Loki trama pelo trono.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor reage com brutalidade quando os inimigos dos deuses entram no palácio violando o tratado. Como punição, Odin manda Thor para a Terra.",
+      "poster": "https://image.tmdb.org/t/p/w500/aEV9QmgBqjRTdjsvdCgdK89tavQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+      "trailer": {
+        "youtubeId": "RPNQ9Iz8hag",
+        "nome": "Thor 2011 Trailer Dublado #Universocinematográficomarvel",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 10195
     },
     {
@@ -116,11 +193,22 @@
       "tituloOriginal": "The Avengers",
       "ano": 2012,
       "duracao": 143,
-      "sinopse": "Nick Fury reúne Homem de Ferro, Capitão América, Thor, Hulk, Viúva Negra e Gavião Arqueiro para deter Loki e uma invasão alienígena em Nova York.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes.",
+      "poster": "https://image.tmdb.org/t/p/w500/PtSapjHdDjlVcsqdEo0u7rDE6i.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+      "trailer": {
+        "youtubeId": "Bw2qhZ42AHQ",
+        "nome": "Os Vingadores: The Avengers - Trailer 2 - Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 24428
     },
     {
@@ -131,11 +219,22 @@
       "tituloOriginal": "Captain America: The Winter Soldier",
       "ano": 2014,
       "duracao": 136,
-      "sinopse": "Steve Rogers descobre uma conspiração dentro da S.H.I.E.L.D. e enfrenta um assassino misterioso ligado ao seu passado: o Soldado Invernal.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Após os eventos catastróficos em Nova York com Os Vingadores, Steve Rogers segue tentando se ajustar ao mundo moderno. D. é atacado, Steve se vê preso em uma rede de intrigas que ameaça colocar o mundo em risco.",
+      "poster": "https://image.tmdb.org/t/p/w500/9sTDXtIIfHza1rAbmHU2djyzEXA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1RWLMyC9KcFfcaoViMiJGSSZzzr.jpg",
+      "trailer": {
+        "youtubeId": "t8uUxzKDy-8",
+        "nome": "Capitão América 2: O Soldado Invernal - Trailer Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 100402
     },
     {
@@ -146,11 +245,22 @@
       "tituloOriginal": "Guardians of the Galaxy",
       "ano": 2014,
       "duracao": 121,
-      "sinopse": "O aventureiro Peter Quill rouba um orbe cobiçado e acaba formando uma equipe improvável de foras da lei para salvar a galáxia de Ronan.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Abduzido da Terra quando ainda era criança, Peter Quill fez carreira como saqueador e se auto denominou \"Senhor das Estrelas\". Quando rouba uma esfera, na qual o poderoso vilão Ronan, da raça kree, está interessado, passa a ser procurado por vários caçadores de recompensas.",
+      "poster": "https://image.tmdb.org/t/p/w500/xaY92XMToaSnBuvCui3LHzNGqZB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+      "trailer": {
+        "youtubeId": "al58nMA13OM",
+        "nome": "Guardiões da Galáxia - Trailer 3",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 118340
     },
     {
@@ -161,11 +271,22 @@
       "tituloOriginal": "Avengers: Age of Ultron",
       "ano": 2015,
       "duracao": 141,
-      "sinopse": "Tony Stark cria uma inteligência artificial de defesa, mas Ultron conclui que a paz exige a extinção da humanidade.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, os Vingadores terão que se unir para mais uma vez salvar a raça humana da extinção.",
+      "poster": "https://image.tmdb.org/t/p/w500/uvzqTsRmUzk9mJVzX8cMSWMyM5l.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+      "trailer": {
+        "youtubeId": "I4lgl7ImHSg",
+        "nome": "Trailer 3 - Oficial - Legendado - Vingadores: Era de Ultron 23 de Abril nos Cinemas",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 99861
     },
     {
@@ -175,12 +296,23 @@
       "titulo": "Capitão América: Guerra Civil",
       "tituloOriginal": "Captain America: Civil War",
       "ano": 2016,
-      "duracao": 147,
-      "sinopse": "Um acordo da ONU para supervisionar os heróis divide os Vingadores entre o Capitão América e o Homem de Ferro.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "duracao": 137,
+      "sinopse": "Depois do ataque de Ultron, os políticos decidem controlar os Vingadores, já que suas ações afetam toda a humanidade. A decisão coloca o Capitão América em rota de colisão com o Homem de Ferro.",
+      "poster": "https://image.tmdb.org/t/p/w500/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
+      "trailer": {
+        "youtubeId": "FRLYZn5PGuA",
+        "nome": "Capitão América: Guerra Civil - 28 de Abril nos Cinemas - Trailer Legendado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 271110
     },
     {
@@ -190,12 +322,23 @@
       "titulo": "Viúva Negra",
       "tituloOriginal": "Black Widow",
       "ano": 2021,
-      "duracao": 134,
-      "sinopse": "Foragida após a Guerra Civil, Natasha Romanoff confronta seu passado e a família que deixou para trás no programa da Sala Vermelha.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "duracao": 135,
+      "sinopse": "Natasha Romanoff, também conhecida como Viúva Negra, confronta o lado mais sombrio de sua história quando surge uma perigosa conspiração ligada ao seu passado.",
+      "poster": "https://image.tmdb.org/t/p/w500/lrJ9QI2HMbO8N2S2r2v7fjtou5c.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+      "trailer": {
+        "youtubeId": "uNAxHLp7wv8",
+        "nome": "Viúva Negra | Marvel Studios | Trailer Oficial Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 497698
     },
     {
@@ -206,11 +349,22 @@
       "tituloOriginal": "Black Panther",
       "ano": 2018,
       "duracao": 134,
-      "sinopse": "T’Challa volta a Wakanda para assumir o trono, mas um desafiante inesperado coloca em risco o reino e o mundo.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "O príncipe T'Challa retorna a Wakanda para ser coroado rei. Assumindo o manto de Pantera Negra, ele vai à caça de um vilão que roubou um precioso metal de seu país.",
+      "poster": "https://image.tmdb.org/t/p/w500/ubXNpxL2ASSzY0f8Hxv08pOsV2L.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+      "trailer": {
+        "youtubeId": "wL4a4MafSjQ",
+        "nome": "Pantera Negra – Trailer (legendado)",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 284054
     },
     {
@@ -221,11 +375,34 @@
       "tituloOriginal": "Spider-Man: Homecoming",
       "ano": 2017,
       "duracao": 133,
-      "sinopse": "Depois de lutar ao lado dos Vingadores, Peter Parker tenta equilibrar a escola e a vida de herói enquanto enfrenta o Abutre.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Depois de atuar ao lado dos Vingadores, chegou a hora de Peter Parker voltar para casa e para a sua vida, já não mais tão normal.",
+      "poster": "https://image.tmdb.org/t/p/w500/1nkwRL17cAGO8A1yu3miRBdvOsl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
+      "trailer": {
+        "youtubeId": "JCWygHwOGRo",
+        "nome": "Homem-Aranha: De Volta Ao Lar | Trailer 3 Dublado | 6 de julho nos cinemas",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 167,
+          "nome": "Claro video",
+          "logo": "https://image.tmdb.org/t/p/w92/zTJg0WVErBkcJv4S9FkQRUyXjnq.png",
+          "modalidade": "assinatura"
+        },
+        {
+          "tmdbId": 1899,
+          "nome": "HBO Max",
+          "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png",
+          "modalidade": "assinatura"
+        },
+        {
+          "tmdbId": 1825,
+          "nome": "HBO Max Amazon Channel",
+          "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 315635
     },
     {
@@ -236,11 +413,22 @@
       "tituloOriginal": "Doctor Strange",
       "ano": 2016,
       "duracao": 115,
-      "sinopse": "Após um acidente destruir suas mãos, o neurocirurgião Stephen Strange busca a cura no Nepal e descobre o mundo das artes místicas.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Após sua carreira ser destruída, um brilhante, porém arrogante, cirurgião ganha uma nova chance em sua vida quando um feiticeiro o treina para se tornar o Mago Supremo.",
+      "poster": "https://image.tmdb.org/t/p/w500/pb4clPWRJ5AKlSFu1HrrHdt5uAw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg",
+      "trailer": {
+        "youtubeId": "DavLd8Nj2TQ",
+        "nome": "Trailer Oficial Legendado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 284052
     },
     {
@@ -250,12 +438,23 @@
       "titulo": "Thor: Ragnarok",
       "tituloOriginal": "Thor: Ragnarok",
       "ano": 2017,
-      "duracao": 130,
-      "sinopse": "Preso num planeta distante e sem o martelo, Thor precisa escapar de uma arena de gladiadores e voltar a tempo de impedir que Hela destrua Asgard.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "duracao": 131,
+      "sinopse": "Thor está preso do outro lado do universo. Ele precisa correr contra o tempo para voltar a Asgard e parar Ragnarok, a destruição de seu mundo, que está nas mãos da poderosa e implacável vilã Hela.",
+      "poster": "https://image.tmdb.org/t/p/w500/2K45Fp6koAVoeeYS6aMb9BeNt4F.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg",
+      "trailer": {
+        "youtubeId": "8zJkPuHtZhU",
+        "nome": "Thor Ragnarok | Trailer 2 Dublado (HD)",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 284053
     },
     {
@@ -265,12 +464,23 @@
       "titulo": "Vingadores: Guerra Infinita",
       "tituloOriginal": "Avengers: Infinity War",
       "ano": 2018,
-      "duracao": 149,
-      "sinopse": "Os Vingadores e seus aliados precisam impedir Thanos de reunir as seis Joias do Infinito e eliminar metade de toda a vida no universo.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "duracao": 148,
+      "sinopse": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+      "poster": "https://image.tmdb.org/t/p/w500/A4kvp7vY1BDLrrQIagRCffLKj1t.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+      "trailer": {
+        "youtubeId": "RP-O7wNJdbM",
+        "nome": "Vingadores: Guerra Infinita | Trailer 2 Dublado (HD)",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 299536
     },
     {
@@ -281,11 +491,22 @@
       "tituloOriginal": "Avengers: Endgame",
       "ano": 2019,
       "duracao": 181,
-      "sinopse": "Após o estalo de Thanos, os Vingadores que restaram se reúnem uma última vez para tentar desfazer a tragédia.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Após os eventos devastadores de \"Vingadores: Guerra Infinita\", o universo está em ruínas devido aos esforços do Titã Louco, Thanos.",
+      "poster": "https://image.tmdb.org/t/p/w500/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "trailer": {
+        "youtubeId": "HiAzj9HZQnE",
+        "nome": "Vingadores: Ultimato Encore | Trailer Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 299534
     },
     {
@@ -304,38 +525,38 @@
             {
               "temporada": 1,
               "numero": 1,
-              "titulo": "Episódio 1",
-              "duracao": 50
+              "titulo": "Glorioso Propósito",
+              "duracao": 53
             },
             {
               "temporada": 1,
               "numero": 2,
-              "titulo": "Episódio 2",
-              "duracao": 50
+              "titulo": "A Variante",
+              "duracao": 56
             },
             {
               "temporada": 1,
               "numero": 3,
-              "titulo": "Episódio 3",
-              "duracao": 50
+              "titulo": "Lamentis",
+              "duracao": 44
             },
             {
               "temporada": 1,
               "numero": 4,
-              "titulo": "Episódio 4",
+              "titulo": "O Evento Nexus",
               "duracao": 50
             },
             {
               "temporada": 1,
               "numero": 5,
-              "titulo": "Episódio 5",
-              "duracao": 50
+              "titulo": "Jornada ao Mistério",
+              "duracao": 51
             },
             {
               "temporada": 1,
               "numero": 6,
-              "titulo": "Episódio 6",
-              "duracao": 50
+              "titulo": "Por Todo Tempo. Sempre.",
+              "duracao": 48
             }
           ]
         },
@@ -346,47 +567,58 @@
             {
               "temporada": 2,
               "numero": 1,
-              "titulo": "Episódio 1",
-              "duracao": 50
+              "titulo": "Ouroboros",
+              "duracao": 48
             },
             {
               "temporada": 2,
               "numero": 2,
-              "titulo": "Episódio 2",
-              "duracao": 50
+              "titulo": "Quem é Brad",
+              "duracao": 52
             },
             {
               "temporada": 2,
               "numero": 3,
-              "titulo": "Episódio 3",
-              "duracao": 50
+              "titulo": "1893",
+              "duracao": 56
             },
             {
               "temporada": 2,
               "numero": 4,
-              "titulo": "Episódio 4",
-              "duracao": 50
+              "titulo": "Coração da AVT",
+              "duracao": 51
             },
             {
               "temporada": 2,
               "numero": 5,
-              "titulo": "Episódio 5",
-              "duracao": 50
+              "titulo": "Ciência/Ficção",
+              "duracao": 47
             },
             {
               "temporada": 2,
               "numero": 6,
-              "titulo": "Episódio 6",
-              "duracao": 50
+              "titulo": "Glorioso Propósito",
+              "duracao": 59
             }
           ]
         }
       ],
-      "sinopse": "Capturado pela Autoridade de Variância Temporal após fugir com o Tesseract, Loki é recrutado para caçar uma variante perigosa de si mesmo e acaba diante do destino de toda a linha do tempo.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço.",
+      "poster": "https://image.tmdb.org/t/p/w500/2TwPJfPiBI2lVrofggw3H0b4cDC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
+      "trailer": {
+        "youtubeId": "Q_zkE7gzBN4",
+        "nome": "Trailer Oficial Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 84958
     },
     {
@@ -405,65 +637,76 @@
             {
               "temporada": 1,
               "numero": 1,
-              "titulo": "Episódio 1",
-              "duracao": 35
+              "titulo": "Gravado ao Vivo com Plateia",
+              "duracao": 31
             },
             {
               "temporada": 1,
               "numero": 2,
-              "titulo": "Episódio 2",
-              "duracao": 35
+              "titulo": "Não Mude de Canal",
+              "duracao": 39
             },
             {
               "temporada": 1,
               "numero": 3,
-              "titulo": "Episódio 3",
+              "titulo": "Agora em Cores",
               "duracao": 35
             },
             {
               "temporada": 1,
               "numero": 4,
-              "titulo": "Episódio 4",
-              "duracao": 35
+              "titulo": "Interrompemos este Programa",
+              "duracao": 37
             },
             {
               "temporada": 1,
               "numero": 5,
-              "titulo": "Episódio 5",
-              "duracao": 35
+              "titulo": "Em um Episódio Muito Especial...",
+              "duracao": 43
             },
             {
               "temporada": 1,
               "numero": 6,
-              "titulo": "Episódio 6",
-              "duracao": 35
+              "titulo": "Um Halloween Assustadoramente Inédito!",
+              "duracao": 40
             },
             {
               "temporada": 1,
               "numero": 7,
-              "titulo": "Episódio 7",
-              "duracao": 35
+              "titulo": "Derrubando a Quarta Parede",
+              "duracao": 39
             },
             {
               "temporada": 1,
               "numero": 8,
-              "titulo": "Episódio 8",
-              "duracao": 35
+              "titulo": "Nos Capítulos Anteriores",
+              "duracao": 48
             },
             {
               "temporada": 1,
               "numero": 9,
-              "titulo": "Episódio 9",
-              "duracao": 35
+              "titulo": "O Grande Final",
+              "duracao": 51
             }
           ]
         }
       ],
-      "sinopse": "Wanda Maximoff e Visão levam uma vida perfeita de sitcom no subúrbio de Westview, até que a realidade começa a rachar.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Wanda Maximoff e Visão, um casal de super-heróis com uma vida perfeita, que começa a suspeitar que nem tudo é o que parece.",
+      "poster": "https://image.tmdb.org/t/p/w500/8mAyDNSCZDiejPTm4lwgbztut7y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cq62fLH3vwOmiaLKMqkDI86tPtH.jpg",
+      "trailer": {
+        "youtubeId": "alrxJ6TusLY",
+        "nome": "WandaVision | Marvel Studios | Trailer Oficial 3 Dublado | Disney+",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 85271
     },
     {
@@ -482,47 +725,58 @@
             {
               "temporada": 1,
               "numero": 1,
-              "titulo": "Episódio 1",
-              "duracao": 50
+              "titulo": "Nova Ordem Mundial",
+              "duracao": 51
             },
             {
               "temporada": 1,
               "numero": 2,
-              "titulo": "Episódio 2",
-              "duracao": 50
+              "titulo": "O Herói Americano",
+              "duracao": 52
             },
             {
               "temporada": 1,
               "numero": 3,
-              "titulo": "Episódio 3",
-              "duracao": 50
+              "titulo": "Mercador do Poder",
+              "duracao": 55
             },
             {
               "temporada": 1,
               "numero": 4,
-              "titulo": "Episódio 4",
-              "duracao": 50
+              "titulo": "O Mundo Está Vendo",
+              "duracao": 56
             },
             {
               "temporada": 1,
               "numero": 5,
-              "titulo": "Episódio 5",
-              "duracao": 50
+              "titulo": "Verdade",
+              "duracao": 62
             },
             {
               "temporada": 1,
               "numero": 6,
-              "titulo": "Episódio 6",
-              "duracao": 50
+              "titulo": "Um Mundo, Um Povo",
+              "duracao": 54
             }
           ]
         }
       ],
-      "sinopse": "Sam Wilson e Bucky Barnes se unem para enfrentar os Apátridas enquanto lidam com o legado do escudo do Capitão América.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Após os eventos de \"Vingadores: Ultimato\", Sam Wilson/Falcão e Bucky Barnes/Soldado Invernal se unem em uma aventura que testa suas habilidades - e a paciência.",
+      "poster": "https://image.tmdb.org/t/p/w500/oF9njYCN6lBdrsi6wfulcxTggvn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
+      "trailer": {
+        "youtubeId": "n_p0mWsghvg",
+        "nome": "Falcão e o Soldado Invernal | Marvel Studios | Trailer Oficial Dublado 2 | Disney+",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 88396
     },
     {
@@ -533,11 +787,22 @@
       "tituloOriginal": "Shang-Chi and the Legend of the Ten Rings",
       "ano": 2021,
       "duracao": 132,
-      "sinopse": "Shang-Chi precisa confrontar o passado que tentou deixar para trás quando é atraído para a organização dos Dez Anéis, comandada pelo próprio pai.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Shang-Chi precisa confrontar o passado que pensou ter deixado para trás. Ao mesmo tempo, ele é envolvido em uma teia de mistérios da organização conhecida como Dez Anéis.",
+      "poster": "https://image.tmdb.org/t/p/w500/d3wNegI8XJF8Kto6KhlqPicBRAp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/r7K6Xt0RX4Mw0cAbZVw5cyb1Tux.jpg",
+      "trailer": {
+        "youtubeId": "UQzDFF8xN3c",
+        "nome": "Shang-Chi e a Lenda dos Dez Anéis | Marvel Studios | Trailer 2 Oficial Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 566525
     },
     {
@@ -547,12 +812,29 @@
       "titulo": "Homem-Aranha: Sem Volta Para Casa",
       "tituloOriginal": "Spider-Man: No Way Home",
       "ano": 2021,
-      "duracao": 148,
-      "sinopse": "Com a identidade revelada, Peter Parker pede ajuda ao Doutor Estranho, mas um feitiço mal executado abre as portas do multiverso.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "duracao": 149,
+      "sinopse": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
+      "poster": "https://image.tmdb.org/t/p/w500/xaKydnMw6wR1MBAjS5seGPVusbs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+      "trailer": {
+        "youtubeId": "CyiiEJRZjSU",
+        "nome": "Trailer Oficial Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 2302,
+          "nome": "Mercado Play",
+          "logo": "https://image.tmdb.org/t/p/w92/1jZnP6bS5nNOqwY7GGJuyLhWEYW.png",
+          "modalidade": "gratis"
+        },
+        {
+          "tmdbId": 1889,
+          "nome": "Universal+ Amazon Channel",
+          "logo": "https://image.tmdb.org/t/p/w92/j3Q750FwRyIejO5MrNu25Kia57.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 634649
     },
     {
@@ -563,11 +845,22 @@
       "tituloOriginal": "Doctor Strange in the Multiverse of Madness",
       "ano": 2022,
       "duracao": 126,
-      "sinopse": "Doutor Estranho protege uma jovem capaz de viajar entre universos e enfrenta uma ameaça que ele conhece muito bem.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Doutor Estranho, com a ajuda de aliados místicos antigos e novos, atravessa as perigosas realidades alternativas e alucinantes do Multiverso para enfrentar um novo adversário misterioso.",
+      "poster": "https://image.tmdb.org/t/p/w500/7pLIVfovuIf2KQOOvMsKx3Lanrg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lv3TXqhpaIxkclIHbhN2MRMOemQ.jpg",
+      "trailer": {
+        "youtubeId": "X23XCFgdh2M",
+        "nome": "Trailer Oficial Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 453395
     },
     {
@@ -578,11 +871,22 @@
       "tituloOriginal": "Thor: Love and Thunder",
       "ano": 2022,
       "duracao": 119,
-      "sinopse": "Thor interrompe a busca por paz interior para enfrentar Gorr, o Carniceiro dos Deuses, ao lado de Valquíria, Korg e Jane Foster, agora a Poderosa Thor.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Thor parte em uma jornada de autodescoberta, diferente de tudo que ele já enfrentou. Mas seus esforços são interrompidos por um assassino galáctico conhecido como Gorr, o Carniceiro dos Deuses, que busca a extinção dos deuses.",
+      "poster": "https://image.tmdb.org/t/p/w500/8gdBMIYwPPxp3b9FjY9yCxme5Rs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+      "trailer": {
+        "youtubeId": "1c_W_4cNLn0",
+        "nome": "Trailer Oficial Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 616037
     },
     {
@@ -592,12 +896,23 @@
       "titulo": "Pantera Negra: Wakanda Para Sempre",
       "tituloOriginal": "Black Panther: Wakanda Forever",
       "ano": 2022,
-      "duracao": 161,
-      "sinopse": "Após a morte do rei T’Challa, Wakanda precisa se proteger das potências mundiais e de Namor, governante do reino submarino de Talokan.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "duracao": 162,
+      "sinopse": "A rainha Ramonda, Shuri, M'Baku, Okoye e as poderosas Dora Milaje lutam para proteger sua nação após a morte do rei T'Challa. Com a ajuda da Cão de Guerra Nakia e de Everett Ross, eles tentam encontrar um novo caminho para Wakanda.",
+      "poster": "https://image.tmdb.org/t/p/w500/cryEN3sWlgB2wTzcUNVtDGI8bkM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
+      "trailer": {
+        "youtubeId": "FR9iLjOubWc",
+        "nome": "Trailer Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 505642
     },
     {
@@ -608,11 +923,22 @@
       "tituloOriginal": "Ant-Man and the Wasp: Quantumania",
       "ano": 2023,
       "duracao": 125,
-      "sinopse": "Scott Lang, Hope van Dyne e a família são sugados para o Reino Quântico, onde enfrentam Kang, o Conquistador.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Scott Lang e Hope van Dyne em suas jornadas como super-heróis. Scott e sua família são puxados para o Reino Quântico, onde eles precisarão enfrentar um novo e terrível vilão: Kang, o Conquistador e M.O.D.O.K..",
+      "poster": "https://image.tmdb.org/t/p/w500/qZDafbofrZn46MmDwJS8fCSCe6l.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
+      "trailer": {
+        "youtubeId": "yWqTMHy_-2I",
+        "nome": "Trailer Oficial 2 Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 640146
     },
     {
@@ -623,11 +949,22 @@
       "tituloOriginal": "Deadpool & Wolverine",
       "ano": 2024,
       "duracao": 128,
-      "sinopse": "Recrutado pela AVT, Deadpool precisa salvar o próprio universo e acaba se aliando a uma variante relutante do Wolverine.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "Um apático Wade Wilson trabalha duro na vida civil. Seus dias como mercenário moralmente flexível, Deadpool, ficaram para trás. Quando seu planeta enfrenta uma ameaça, Wade deve relutantemente vestir-se novamente com um ainda mais relutante... relutante? Mais relutante? Ele deve convencer um Wolverine relutante em...",
+      "poster": "https://image.tmdb.org/t/p/w500/cJFqqiDYprqExaXatu4AaoMzDG2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+      "trailer": {
+        "youtubeId": "dEbe0rS4Z2A",
+        "nome": "Trailer 2 Oficial Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 533535
     },
     {
@@ -637,12 +974,23 @@
       "titulo": "Capitão América: Admirável Mundo Novo",
       "tituloOriginal": "Captain America: Brave New World",
       "ano": 2025,
-      "duracao": 118,
-      "sinopse": "Sam Wilson, agora o Capitão América, se vê no centro de uma conspiração internacional após um encontro com o presidente Thaddeus Ross.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "duracao": 119,
+      "sinopse": "Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.",
+      "poster": "https://image.tmdb.org/t/p/w500/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ce3prrjh9ZehEl5JinNqr4jIeaB.jpg",
+      "trailer": {
+        "youtubeId": "NP2xle2cmf0",
+        "nome": "Trailer Oficial 2 Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 822119
     },
     {
@@ -652,12 +1000,23 @@
       "titulo": "Thunderbolts*",
       "tituloOriginal": "Thunderbolts*",
       "ano": 2025,
-      "duracao": 127,
-      "sinopse": "Yelena Belova e um grupo de anti-heróis desajustados caem numa armadilha e precisam trabalhar juntos numa missão perigosa.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "duracao": 126,
+      "sinopse": "Depois de se verem presos em uma armadilha mortal, uma equipe não convencional de sete anti-heróis deve embarcar em uma missão perigosa que os forçará a confrontar os cantos mais sombrios de seus passados.",
+      "poster": "https://image.tmdb.org/t/p/w500/zkysYSX51ddSPQuiDTjkGCS6vyh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+      "trailer": {
+        "youtubeId": "sXGZbXPjdUs",
+        "nome": "Trailer Oficial 3 Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 986056
     },
     {
@@ -667,11 +1026,15 @@
       "titulo": "Homem-Aranha: Um Novo Dia",
       "tituloOriginal": "Spider-Man: Brand New Day",
       "ano": 2026,
-      "duracao": null,
-      "sinopse": "Depois que o mundo esqueceu quem ele é, Peter Parker segue sozinho como o Homem-Aranha em Nova York.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
+      "duracao": 143,
+      "sinopse": "É um novo dia para Peter Parker. Combatendo o crime em tempo integral como Homem-Aranha em um mundo que não se lembra mais dele e lidando com a pressão de ver seus antigos amigos seguirem em frente sem sua presença, Peter passa por uma mudança que talvez nem ele tenha o poder de controlar.",
+      "poster": "https://image.tmdb.org/t/p/w500/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "trailer": {
+        "youtubeId": "bwt2-nyEP0A",
+        "nome": "Homem-Aranha: Um Novo Dia - Trailer Final (A Jornada de Peter) - Dublado",
+        "idioma": "pt-BR"
+      },
       "ondeAssistir": [],
       "tmdbId": 969681
     },
@@ -683,11 +1046,22 @@
       "tituloOriginal": "The Fantastic Four: First Steps",
       "ano": 2025,
       "duracao": 115,
-      "sinopse": "Num mundo retrofuturista inspirado nos anos 1960, o Quarteto Fantástico precisa defender a Terra de Galactus e da Surfista Prateada.",
-      "poster": null,
-      "backdrop": null,
-      "trailer": null,
-      "ondeAssistir": [],
+      "sinopse": "No vibrante cenário de um mundo retrofuturista inspirado nos anos 1960, a Primeira Família da Marvel é forçada a equilibrar seus papéis como heróis com a força de seus laços familiares, enquanto defendem a Terra de um deus espacial voraz chamado Galactus e sua enigmática arauta, a Surfista Prateada.",
+      "poster": "https://image.tmdb.org/t/p/w500/8F2vIxWycANHW763lnx2hJVtjDC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+      "trailer": {
+        "youtubeId": "KGa3BUvBnDg",
+        "nome": "Trailer Oficial 3 Dublado",
+        "idioma": "pt-BR"
+      },
+      "ondeAssistir": [
+        {
+          "tmdbId": 337,
+          "nome": "Disney Plus",
+          "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "modalidade": "assinatura"
+        }
+      ],
       "tmdbId": 617126
     }
   ],
@@ -698,11 +1072,15 @@
     "titulo": "Vingadores: Doomsday",
     "tituloOriginal": "Avengers: Doomsday",
     "ano": 2026,
-    "duracao": null,
-    "sinopse": "Vingadores, X-Men e outros heróis se unem diante da maior ameaça que já enfrentaram: o Doutor Destino.",
-    "poster": null,
-    "backdrop": null,
-    "trailer": null,
+    "duracao": 165,
+    "sinopse": "Heróis icônicos de três universos diferentes são colocados em rota de colisão mortal e enfrentam uma ameaça existencial sem precedentes, diferente de tudo que já vivenciaram antes.",
+    "poster": "https://image.tmdb.org/t/p/w500/j8ThEXgdGWYg1uWdSqygOSnlIA2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+    "trailer": {
+      "youtubeId": "TcBtFtkQFiU",
+      "nome": "Trailer Oficial Dublado",
+      "idioma": "pt-BR"
+    },
     "ondeAssistir": [],
     "tmdbId": 1003596,
     "estreia": "2026-12-18",
