@@ -1,0 +1,711 @@
+{
+  "versao": 1,
+  "fonte": "provisorio",
+  "geradoEm": "2026-10-01T13:19:56.005Z",
+  "itens": [
+    {
+      "id": "x-men-2000",
+      "posicao": 1,
+      "tipo": "filme",
+      "titulo": "X-Men: O Filme",
+      "tituloOriginal": "X-Men",
+      "ano": 2000,
+      "duracao": 104,
+      "sinopse": "Em um mundo que teme e odeia os mutantes, Wolverine e a jovem Vampira se juntam aos X-Men do Professor Xavier para impedir que Magneto ataque líderes mundiais.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 36657
+    },
+    {
+      "id": "x-men-2-2003",
+      "posicao": 2,
+      "tipo": "filme",
+      "titulo": "X-Men 2",
+      "tituloOriginal": "X2",
+      "ano": 2003,
+      "duracao": 134,
+      "sinopse": "Depois de um ataque à Casa Branca, o militar William Stryker lança uma ofensiva contra os mutantes, forçando os X-Men a se aliarem a Magneto.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 36658
+    },
+    {
+      "id": "capitao-america-primeiro-vingador-2011",
+      "posicao": 3,
+      "tipo": "filme",
+      "titulo": "Capitão América: O Primeiro Vingador",
+      "tituloOriginal": "Captain America: The First Avenger",
+      "ano": 2011,
+      "duracao": 124,
+      "sinopse": "Durante a Segunda Guerra, o franzino Steve Rogers recebe o soro do supersoldado e se torna o Capitão América para enfrentar o Caveira Vermelha e a HIDRA.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 1771
+    },
+    {
+      "id": "homem-de-ferro-2008",
+      "posicao": 4,
+      "tipo": "filme",
+      "titulo": "Homem de Ferro",
+      "tituloOriginal": "Iron Man",
+      "ano": 2008,
+      "duracao": 126,
+      "sinopse": "Sequestrado no Afeganistão, o bilionário Tony Stark constrói uma armadura para escapar e decide usar sua tecnologia para proteger o mundo.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 1726
+    },
+    {
+      "id": "homem-de-ferro-2-2010",
+      "posicao": 5,
+      "tipo": "filme",
+      "titulo": "Homem de Ferro 2",
+      "tituloOriginal": "Iron Man 2",
+      "ano": 2010,
+      "duracao": 124,
+      "sinopse": "Com a identidade revelada, Tony Stark enfrenta a pressão do governo, a doença causada pelo próprio reator e o vingativo Ivan Vanko.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 10138
+    },
+    {
+      "id": "incrivel-hulk-2008",
+      "posicao": 6,
+      "tipo": "filme",
+      "titulo": "O Incrível Hulk",
+      "tituloOriginal": "The Incredible Hulk",
+      "ano": 2008,
+      "duracao": 112,
+      "sinopse": "Foragido, Bruce Banner busca uma cura para a fúria que o transforma no Hulk enquanto o Exército e o soldado Emil Blonsky o perseguem.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 1724
+    },
+    {
+      "id": "thor-2011",
+      "posicao": 7,
+      "tipo": "filme",
+      "titulo": "Thor",
+      "tituloOriginal": "Thor",
+      "ano": 2011,
+      "duracao": 115,
+      "sinopse": "Banido de Asgard por sua arrogância, Thor cai na Terra sem seus poderes e precisa provar que é digno enquanto Loki trama pelo trono.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 10195
+    },
+    {
+      "id": "vingadores-2012",
+      "posicao": 8,
+      "tipo": "filme",
+      "titulo": "Os Vingadores",
+      "tituloOriginal": "The Avengers",
+      "ano": 2012,
+      "duracao": 143,
+      "sinopse": "Nick Fury reúne Homem de Ferro, Capitão América, Thor, Hulk, Viúva Negra e Gavião Arqueiro para deter Loki e uma invasão alienígena em Nova York.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 24428
+    },
+    {
+      "id": "capitao-america-soldado-invernal-2014",
+      "posicao": 9,
+      "tipo": "filme",
+      "titulo": "Capitão América 2: O Soldado Invernal",
+      "tituloOriginal": "Captain America: The Winter Soldier",
+      "ano": 2014,
+      "duracao": 136,
+      "sinopse": "Steve Rogers descobre uma conspiração dentro da S.H.I.E.L.D. e enfrenta um assassino misterioso ligado ao seu passado: o Soldado Invernal.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 100402
+    },
+    {
+      "id": "guardioes-da-galaxia-2014",
+      "posicao": 10,
+      "tipo": "filme",
+      "titulo": "Guardiões da Galáxia",
+      "tituloOriginal": "Guardians of the Galaxy",
+      "ano": 2014,
+      "duracao": 121,
+      "sinopse": "O aventureiro Peter Quill rouba um orbe cobiçado e acaba formando uma equipe improvável de foras da lei para salvar a galáxia de Ronan.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 118340
+    },
+    {
+      "id": "vingadores-era-de-ultron-2015",
+      "posicao": 11,
+      "tipo": "filme",
+      "titulo": "Vingadores: Era de Ultron",
+      "tituloOriginal": "Avengers: Age of Ultron",
+      "ano": 2015,
+      "duracao": 141,
+      "sinopse": "Tony Stark cria uma inteligência artificial de defesa, mas Ultron conclui que a paz exige a extinção da humanidade.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 99861
+    },
+    {
+      "id": "capitao-america-guerra-civil-2016",
+      "posicao": 12,
+      "tipo": "filme",
+      "titulo": "Capitão América: Guerra Civil",
+      "tituloOriginal": "Captain America: Civil War",
+      "ano": 2016,
+      "duracao": 147,
+      "sinopse": "Um acordo da ONU para supervisionar os heróis divide os Vingadores entre o Capitão América e o Homem de Ferro.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 271110
+    },
+    {
+      "id": "viuva-negra-2021",
+      "posicao": 13,
+      "tipo": "filme",
+      "titulo": "Viúva Negra",
+      "tituloOriginal": "Black Widow",
+      "ano": 2021,
+      "duracao": 134,
+      "sinopse": "Foragida após a Guerra Civil, Natasha Romanoff confronta seu passado e a família que deixou para trás no programa da Sala Vermelha.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 497698
+    },
+    {
+      "id": "pantera-negra-2018",
+      "posicao": 14,
+      "tipo": "filme",
+      "titulo": "Pantera Negra",
+      "tituloOriginal": "Black Panther",
+      "ano": 2018,
+      "duracao": 134,
+      "sinopse": "T’Challa volta a Wakanda para assumir o trono, mas um desafiante inesperado coloca em risco o reino e o mundo.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 284054
+    },
+    {
+      "id": "homem-aranha-de-volta-ao-lar-2017",
+      "posicao": 15,
+      "tipo": "filme",
+      "titulo": "Homem-Aranha: De Volta ao Lar",
+      "tituloOriginal": "Spider-Man: Homecoming",
+      "ano": 2017,
+      "duracao": 133,
+      "sinopse": "Depois de lutar ao lado dos Vingadores, Peter Parker tenta equilibrar a escola e a vida de herói enquanto enfrenta o Abutre.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 315635
+    },
+    {
+      "id": "doutor-estranho-2016",
+      "posicao": 16,
+      "tipo": "filme",
+      "titulo": "Doutor Estranho",
+      "tituloOriginal": "Doctor Strange",
+      "ano": 2016,
+      "duracao": 115,
+      "sinopse": "Após um acidente destruir suas mãos, o neurocirurgião Stephen Strange busca a cura no Nepal e descobre o mundo das artes místicas.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 284052
+    },
+    {
+      "id": "thor-ragnarok-2017",
+      "posicao": 17,
+      "tipo": "filme",
+      "titulo": "Thor: Ragnarok",
+      "tituloOriginal": "Thor: Ragnarok",
+      "ano": 2017,
+      "duracao": 130,
+      "sinopse": "Preso num planeta distante e sem o martelo, Thor precisa escapar de uma arena de gladiadores e voltar a tempo de impedir que Hela destrua Asgard.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 284053
+    },
+    {
+      "id": "vingadores-guerra-infinita-2018",
+      "posicao": 18,
+      "tipo": "filme",
+      "titulo": "Vingadores: Guerra Infinita",
+      "tituloOriginal": "Avengers: Infinity War",
+      "ano": 2018,
+      "duracao": 149,
+      "sinopse": "Os Vingadores e seus aliados precisam impedir Thanos de reunir as seis Joias do Infinito e eliminar metade de toda a vida no universo.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 299536
+    },
+    {
+      "id": "vingadores-ultimato-2019",
+      "posicao": 19,
+      "tipo": "filme",
+      "titulo": "Vingadores: Ultimato",
+      "tituloOriginal": "Avengers: Endgame",
+      "ano": 2019,
+      "duracao": 181,
+      "sinopse": "Após o estalo de Thanos, os Vingadores que restaram se reúnem uma última vez para tentar desfazer a tragédia.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 299534
+    },
+    {
+      "id": "loki",
+      "posicao": 20,
+      "tipo": "serie",
+      "titulo": "Loki – Temporadas 1 e 2",
+      "tituloOriginal": "Loki",
+      "ano": 2021,
+      "duracao": null,
+      "temporadas": [
+        {
+          "numero": 1,
+          "titulo": "Temporada 1",
+          "episodios": [
+            {
+              "temporada": 1,
+              "numero": 1,
+              "titulo": "Episódio 1",
+              "duracao": 50
+            },
+            {
+              "temporada": 1,
+              "numero": 2,
+              "titulo": "Episódio 2",
+              "duracao": 50
+            },
+            {
+              "temporada": 1,
+              "numero": 3,
+              "titulo": "Episódio 3",
+              "duracao": 50
+            },
+            {
+              "temporada": 1,
+              "numero": 4,
+              "titulo": "Episódio 4",
+              "duracao": 50
+            },
+            {
+              "temporada": 1,
+              "numero": 5,
+              "titulo": "Episódio 5",
+              "duracao": 50
+            },
+            {
+              "temporada": 1,
+              "numero": 6,
+              "titulo": "Episódio 6",
+              "duracao": 50
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Temporada 2",
+          "episodios": [
+            {
+              "temporada": 2,
+              "numero": 1,
+              "titulo": "Episódio 1",
+              "duracao": 50
+            },
+            {
+              "temporada": 2,
+              "numero": 2,
+              "titulo": "Episódio 2",
+              "duracao": 50
+            },
+            {
+              "temporada": 2,
+              "numero": 3,
+              "titulo": "Episódio 3",
+              "duracao": 50
+            },
+            {
+              "temporada": 2,
+              "numero": 4,
+              "titulo": "Episódio 4",
+              "duracao": 50
+            },
+            {
+              "temporada": 2,
+              "numero": 5,
+              "titulo": "Episódio 5",
+              "duracao": 50
+            },
+            {
+              "temporada": 2,
+              "numero": 6,
+              "titulo": "Episódio 6",
+              "duracao": 50
+            }
+          ]
+        }
+      ],
+      "sinopse": "Capturado pela Autoridade de Variância Temporal após fugir com o Tesseract, Loki é recrutado para caçar uma variante perigosa de si mesmo e acaba diante do destino de toda a linha do tempo.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 84958
+    },
+    {
+      "id": "wandavision",
+      "posicao": 21,
+      "tipo": "serie",
+      "titulo": "WandaVision",
+      "tituloOriginal": "WandaVision",
+      "ano": 2021,
+      "duracao": null,
+      "temporadas": [
+        {
+          "numero": 1,
+          "titulo": "Temporada 1",
+          "episodios": [
+            {
+              "temporada": 1,
+              "numero": 1,
+              "titulo": "Episódio 1",
+              "duracao": 35
+            },
+            {
+              "temporada": 1,
+              "numero": 2,
+              "titulo": "Episódio 2",
+              "duracao": 35
+            },
+            {
+              "temporada": 1,
+              "numero": 3,
+              "titulo": "Episódio 3",
+              "duracao": 35
+            },
+            {
+              "temporada": 1,
+              "numero": 4,
+              "titulo": "Episódio 4",
+              "duracao": 35
+            },
+            {
+              "temporada": 1,
+              "numero": 5,
+              "titulo": "Episódio 5",
+              "duracao": 35
+            },
+            {
+              "temporada": 1,
+              "numero": 6,
+              "titulo": "Episódio 6",
+              "duracao": 35
+            },
+            {
+              "temporada": 1,
+              "numero": 7,
+              "titulo": "Episódio 7",
+              "duracao": 35
+            },
+            {
+              "temporada": 1,
+              "numero": 8,
+              "titulo": "Episódio 8",
+              "duracao": 35
+            },
+            {
+              "temporada": 1,
+              "numero": 9,
+              "titulo": "Episódio 9",
+              "duracao": 35
+            }
+          ]
+        }
+      ],
+      "sinopse": "Wanda Maximoff e Visão levam uma vida perfeita de sitcom no subúrbio de Westview, até que a realidade começa a rachar.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 85271
+    },
+    {
+      "id": "falcao-e-o-soldado-invernal",
+      "posicao": 22,
+      "tipo": "serie",
+      "titulo": "Falcão e o Soldado Invernal",
+      "tituloOriginal": "The Falcon and the Winter Soldier",
+      "ano": 2021,
+      "duracao": null,
+      "temporadas": [
+        {
+          "numero": 1,
+          "titulo": "Temporada 1",
+          "episodios": [
+            {
+              "temporada": 1,
+              "numero": 1,
+              "titulo": "Episódio 1",
+              "duracao": 50
+            },
+            {
+              "temporada": 1,
+              "numero": 2,
+              "titulo": "Episódio 2",
+              "duracao": 50
+            },
+            {
+              "temporada": 1,
+              "numero": 3,
+              "titulo": "Episódio 3",
+              "duracao": 50
+            },
+            {
+              "temporada": 1,
+              "numero": 4,
+              "titulo": "Episódio 4",
+              "duracao": 50
+            },
+            {
+              "temporada": 1,
+              "numero": 5,
+              "titulo": "Episódio 5",
+              "duracao": 50
+            },
+            {
+              "temporada": 1,
+              "numero": 6,
+              "titulo": "Episódio 6",
+              "duracao": 50
+            }
+          ]
+        }
+      ],
+      "sinopse": "Sam Wilson e Bucky Barnes se unem para enfrentar os Apátridas enquanto lidam com o legado do escudo do Capitão América.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 88396
+    },
+    {
+      "id": "shang-chi-2021",
+      "posicao": 23,
+      "tipo": "filme",
+      "titulo": "Shang-Chi e a Lenda dos Dez Anéis",
+      "tituloOriginal": "Shang-Chi and the Legend of the Ten Rings",
+      "ano": 2021,
+      "duracao": 132,
+      "sinopse": "Shang-Chi precisa confrontar o passado que tentou deixar para trás quando é atraído para a organização dos Dez Anéis, comandada pelo próprio pai.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 566525
+    },
+    {
+      "id": "homem-aranha-sem-volta-para-casa-2021",
+      "posicao": 24,
+      "tipo": "filme",
+      "titulo": "Homem-Aranha: Sem Volta Para Casa",
+      "tituloOriginal": "Spider-Man: No Way Home",
+      "ano": 2021,
+      "duracao": 148,
+      "sinopse": "Com a identidade revelada, Peter Parker pede ajuda ao Doutor Estranho, mas um feitiço mal executado abre as portas do multiverso.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 634649
+    },
+    {
+      "id": "doutor-estranho-multiverso-da-loucura-2022",
+      "posicao": 25,
+      "tipo": "filme",
+      "titulo": "Doutor Estranho no Multiverso da Loucura",
+      "tituloOriginal": "Doctor Strange in the Multiverse of Madness",
+      "ano": 2022,
+      "duracao": 126,
+      "sinopse": "Doutor Estranho protege uma jovem capaz de viajar entre universos e enfrenta uma ameaça que ele conhece muito bem.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 453395
+    },
+    {
+      "id": "thor-amor-e-trovao-2022",
+      "posicao": 26,
+      "tipo": "filme",
+      "titulo": "Thor: Amor e Trovão",
+      "tituloOriginal": "Thor: Love and Thunder",
+      "ano": 2022,
+      "duracao": 119,
+      "sinopse": "Thor interrompe a busca por paz interior para enfrentar Gorr, o Carniceiro dos Deuses, ao lado de Valquíria, Korg e Jane Foster, agora a Poderosa Thor.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 616037
+    },
+    {
+      "id": "pantera-negra-wakanda-para-sempre-2022",
+      "posicao": 27,
+      "tipo": "filme",
+      "titulo": "Pantera Negra: Wakanda Para Sempre",
+      "tituloOriginal": "Black Panther: Wakanda Forever",
+      "ano": 2022,
+      "duracao": 161,
+      "sinopse": "Após a morte do rei T’Challa, Wakanda precisa se proteger das potências mundiais e de Namor, governante do reino submarino de Talokan.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 505642
+    },
+    {
+      "id": "homem-formiga-vespa-quantumania-2023",
+      "posicao": 28,
+      "tipo": "filme",
+      "titulo": "Homem-Formiga e a Vespa: Quantumania",
+      "tituloOriginal": "Ant-Man and the Wasp: Quantumania",
+      "ano": 2023,
+      "duracao": 125,
+      "sinopse": "Scott Lang, Hope van Dyne e a família são sugados para o Reino Quântico, onde enfrentam Kang, o Conquistador.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 640146
+    },
+    {
+      "id": "deadpool-e-wolverine-2024",
+      "posicao": 29,
+      "tipo": "filme",
+      "titulo": "Deadpool & Wolverine",
+      "tituloOriginal": "Deadpool & Wolverine",
+      "ano": 2024,
+      "duracao": 128,
+      "sinopse": "Recrutado pela AVT, Deadpool precisa salvar o próprio universo e acaba se aliando a uma variante relutante do Wolverine.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 533535
+    },
+    {
+      "id": "capitao-america-admiravel-mundo-novo-2025",
+      "posicao": 30,
+      "tipo": "filme",
+      "titulo": "Capitão América: Admirável Mundo Novo",
+      "tituloOriginal": "Captain America: Brave New World",
+      "ano": 2025,
+      "duracao": 118,
+      "sinopse": "Sam Wilson, agora o Capitão América, se vê no centro de uma conspiração internacional após um encontro com o presidente Thaddeus Ross.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 822119
+    },
+    {
+      "id": "thunderbolts-2025",
+      "posicao": 31,
+      "tipo": "filme",
+      "titulo": "Thunderbolts*",
+      "tituloOriginal": "Thunderbolts*",
+      "ano": 2025,
+      "duracao": 127,
+      "sinopse": "Yelena Belova e um grupo de anti-heróis desajustados caem numa armadilha e precisam trabalhar juntos numa missão perigosa.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 986056
+    },
+    {
+      "id": "homem-aranha-um-novo-dia-2026",
+      "posicao": 32,
+      "tipo": "filme",
+      "titulo": "Homem-Aranha: Um Novo Dia",
+      "tituloOriginal": "Spider-Man: Brand New Day",
+      "ano": 2026,
+      "duracao": null,
+      "sinopse": "Depois que o mundo esqueceu quem ele é, Peter Parker segue sozinho como o Homem-Aranha em Nova York.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 969681
+    },
+    {
+      "id": "quarteto-fantastico-primeiros-passos-2025",
+      "posicao": 33,
+      "tipo": "filme",
+      "titulo": "Quarteto Fantástico: Primeiros Passos",
+      "tituloOriginal": "The Fantastic Four: First Steps",
+      "ano": 2025,
+      "duracao": 115,
+      "sinopse": "Num mundo retrofuturista inspirado nos anos 1960, o Quarteto Fantástico precisa defender a Terra de Galactus e da Surfista Prateada.",
+      "poster": null,
+      "backdrop": null,
+      "trailer": null,
+      "ondeAssistir": [],
+      "tmdbId": 617126
+    }
+  ],
+  "destino": {
+    "id": "vingadores-doomsday-2026",
+    "posicao": 34,
+    "tipo": "filme",
+    "titulo": "Vingadores: Doomsday",
+    "tituloOriginal": "Avengers: Doomsday",
+    "ano": 2026,
+    "duracao": null,
+    "sinopse": "Vingadores, X-Men e outros heróis se unem diante da maior ameaça que já enfrentaram: o Doutor Destino.",
+    "poster": null,
+    "backdrop": null,
+    "trailer": null,
+    "ondeAssistir": [],
+    "tmdbId": 1003596,
+    "estreia": "2026-12-18",
+    "sessao": "2026-12-16T20:45:00-03:00"
+  }
+}
